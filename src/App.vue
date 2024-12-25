@@ -7,7 +7,6 @@
  </template>
 
 <script setup>
-console.log('hello from app');
     import { ref } from 'vue';
     import ActiveUser from './components/ActiveUser.vue';
     import UserData from './components/UserData.vue';

@@ -8,7 +8,6 @@
  </template>
 
  <script setup>
- console.log('hello from user data');
     import { ref, defineEmits } from 'vue';
 
     const name = ref('');

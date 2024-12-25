@@ -7,7 +7,6 @@
  </template>
 
  <script setup>
-    console.log('hello from active user');
     import { defineProps } from 'vue';
 
 
